@@ -1,0 +1,36 @@
+<HTML>
+<HEAD>
+<TITLE>TYPES OF POPULATION</TITLE>
+<style>
+table{background-repeat:no-repeat}
+A:link{color:yellow;display:inline-block;text-decoration:none}
+A:visited{color:yellow}
+A:hover{background-color:red}
+td{padding-left:15px}
+</style>
+</head>
+<body bgcolor="black" style="margin-top:10;">
+<font face="arial" color="white" size=3>
+<p align="center">
+<a href="home.html">Home<a/>&nbsp I &nbsp
+<a href="Airp.html">Air Pollution</a>&nbsp I &nbsp
+<a href="Waterp.html">Water Pollution</a>&nbsp I &nbsp
+<a href="Soilp.html">Soil Pollution</a>
+</p>
+<p>
+<center><img src="pollution.jpg" width=40% height=40%><br><br>
+Pollution  we hear it every other day at school,colleges, and read about it in newspapers .So what is it?<font color=red>Pollution occurs<br>
+when pollutants contaminate the natural surroundings;/</font>which brings about changes that affect our normal lifestyles<br> adversely. 
+Pollutants are the key elements or components of pollution wghich are generallywaste materials of different <br>
+forms.Pollution disturbs our ecosystem and the balance in the environment. With modernisation and development in<br>
+our lives, pollution has reached its peak; giving rise to global warming and human illness<br><br>
+<p>Pollution are of many types , but the commonly known are air,water and soil pollution.Let us know more abou them......</P>
+<a href="Airp.html"><H1 style="font-family:cooperplategothic;font-weight:bold;Text-align:center;font-size:25px;color:yellow">Types Of Pollution</h1>
+</center>
+</body>
+</html>
+
+
+
+
+ 

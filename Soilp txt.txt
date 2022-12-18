@@ -1,0 +1,27 @@
+<HTML>
+<HEAD>
+<TITLE>TYPES OF POPULATION</TITLE>
+<style>
+table{background-repeat:no-repeat}
+A:link{color:yellow;display:inline-block;text-decoration:none}
+A:visited{color:yellow}
+A:hover{background-color:red}
+td{padding-left:15px}
+</style>
+</head>
+<body bgcolor="black" style="margin-top:10;">
+<font face="arial" color="white" size=3>
+<p align="center">
+<a href="home.html">Home<a/>&nbsp I &nbsp
+<a href="Airp.html">Air Pollution</a>&nbsp I &nbsp
+<a href="Waterp.html">Water Pollution</a>&nbsp I &nbsp
+<a href="Soilp.html">Soil Pollution</a>
+</p>
+<p>
+<center><img src="Soilp.jpg" width=40% height=40%><br><br>
+Soil contamination or soil pollution as part of land degradation is caused by the presence of xenobiotics (human-made) chemicals or other alteration in the natural soil environment. It is typically<br> caused by industrial activity, agricultural chemicals or improper disposal of waste. The most common chemicals involved are petroleum hydrocarbons, polynuclear aromatic hydrocarbons (such as naphthalene and benzo(a)pyrene), solvents, pesticides, lead, and other heavy <br>metals. Contamination is correlated with the degree of industrialization and intensity of chemical substance. The concern over soil contamination stems primarily from health risks, from direct contact with the contaminated soil, vapours from the <br>contaminants, or from secondary contamination of water supplies within and underlying the soil.[1] Mapping of contaminated soil sites and the resulting cleanups are time-consuming and expensive tasks, requiring extensive amounts of geology, hydrology, chemistry, computer <br>modeling skills, and GIS in Environmental Contamination, as well as an appreciation of the history of industrial chemistry.</P>
+<p>In North America and Western Europe the extent of contaminated land is best known, with many of countries in these areas having a legal framework to identify and deal with this environmental problem. Developing countries tend to be less tightly regulated despite some of them having undergone significant industrialization.
+<a href="Waterp.html"><font color="yellow"><H1 style="font-family:cooperplategothic;font-weight:bold;Text-align:center;font-size:25px;color:yellow">PREV.</h1>
+</center>
+</body>
+</html>
